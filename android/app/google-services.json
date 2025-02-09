@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247312325961",
+    "project_id": "grem-e3f70",
+    "storage_bucket": "grem-e3f70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247312325961:android:f2847bb5abaa51c8fc8e98",
+        "android_client_info": {
+          "package_name": "com.example.grem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKkM_Dluys7gTo6fiBU6Vivk_kdmNhKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
